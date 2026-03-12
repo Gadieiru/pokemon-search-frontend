@@ -39,7 +39,7 @@ Si quieres correr este proyecto localmente:
 
 1.  **Clona el repo:**
     ```bash
-    git clone [https://github.com/Gadieiru/proyect_pokemon_search-frontend.git](https://github.com/Gadieiru/proyect_pokemon_search-frontend.git)
+    git clone [https://github.com/Gadieiru/proyect_pokemon_search-frontend.git](https://github.com/Gadieiru/pokemon-search-frontend.git)
     ```
 
 2.  **Instala las dependencias:**
@@ -57,7 +57,7 @@ Si quieres correr este proyecto localmente:
     ```
 
 ## Enlaces Relacionados:
-* **Backend Repository:**  "https://github.com/Gadieiru/proyect_pokemon_search-backend.git"
+* **Backend Repository:**  "https://github.com/Gadieiru/pokemon-search-backend.git"
 
 ----------------------------
 Hecho con esfuerzo y mucho café ☕.
