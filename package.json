@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gadieiru/proyect_pokemon_search-frontend.git"
+    "url": "git+https://github.com/Gadieiru/pokemon-search-frontend.git"
   },
   "dependencies": {
     "react": "^19.2.0",
